@@ -47,7 +47,7 @@ namespace GameApp
                 case Options.INTERMEDIATE:
                     Console.WriteLine("Intermediate Level");
                     System.Reflection.Assembly intermediateLevelLib = 
-                        System.Reflection.Assembly.LoadFile(@"C:\Users\navyashrees\Documents\GitHub\latebinding-using-reflection-navyashrees29\GameApp\bin\Debug\LevelLibs\IntermediateLevelLib.dll");
+                        System.Reflection.Assembly.LoadFile(@"C:\Users\user\source\repos\excelsoft\Examples\GameApp\bin\Debug\LevelLibs\IntermediateLevelLib.dll");
                     System.Type intermediateLevelTypeClassRef = intermediateLevelLib.GetType("IntermediateLevelLib.IntermediateLevelType");
                     if (intermediateLevelTypeClassRef !=null)
                     {
@@ -68,7 +68,7 @@ namespace GameApp
                 case Options.ADVANCED:
                     Console.WriteLine("Advanced Level");
                     System.Reflection.Assembly advancedLevelLib = 
-                        System.Reflection.Assembly.LoadFile(@"C:\Users\navyashrees\Documents\GitHub\latebinding-using-reflection-navyashrees29\GameApp\bin\Debug\LevelLibs\AdvancedLevelLib.dll");
+                        System.Reflection.Assembly.LoadFile(@"C:\Users\user\source\repos\excelsoft\Examples\GameApp\bin\Debug\LevelLibs\AdvancedLevelLib.dll");
                     System.Type advancedLevelTypeClassRef = advancedLevelLib.GetType("AdvancedLevelLib.AdvancedLevelType");
                     if(advancedLevelTypeClassRef!=null)
                     {
