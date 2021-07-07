@@ -1,0 +1,7 @@
+C:\Users\navyashrees\source\repos\CSharpPrograms\GameAppProgram\obj\Debug\GameAppProgram.csprojResolveAssemblyReference.cache
+C:\Users\navyashrees\source\repos\CSharpPrograms\GameAppProgram\obj\Debug\GameAppProgram.csproj.CoreCompileInputs.cache
+C:\Users\navyashrees\source\repos\CSharpPrograms\GameAppProgram\bin\Debug\GameAppProgram.exe.config
+C:\Users\navyashrees\source\repos\CSharpPrograms\GameAppProgram\bin\Debug\GameAppProgram.exe
+C:\Users\navyashrees\source\repos\CSharpPrograms\GameAppProgram\bin\Debug\GameAppProgram.pdb
+C:\Users\navyashrees\source\repos\CSharpPrograms\GameAppProgram\obj\Debug\GameAppProgram.exe
+C:\Users\navyashrees\source\repos\CSharpPrograms\GameAppProgram\obj\Debug\GameAppProgram.pdb
