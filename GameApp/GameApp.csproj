@@ -44,15 +44,17 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="CheckSwitchCondition.cs" />
-    <Compile Include="CheckCondition.cs" />
-    <Compile Include="ConsoleDisplay.cs" />
-    <Compile Include="ValidateUserInputs.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\LevelLib\LevelLib.csproj">
+      <Project>{a44cff05-3be7-4bfb-9dbe-0ebddaaa1a5d}</Project>
+      <Name>LevelLib</Name>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
